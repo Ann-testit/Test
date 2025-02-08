@@ -7,8 +7,8 @@
 
 Hello, my name is Alex.
 
->> Цитата bla-bla bla-bla-bla bla-bla bla-bla-bla-bla
+>> Цитата "Я ухожу, я устал"
 
-## Итак, вопрос: что это за песня?
+## Итак, вопрос: кто это сказал?
 Мама
 
