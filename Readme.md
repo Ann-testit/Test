@@ -10,11 +10,5 @@ Hello, my name is Alex.
 >> Цитата bla-bla bla-bla-bla bla-bla bla-bla-bla-bla
 
 ## Итак, вопрос: что это за песня?
+Мама
 
-```c++
-
-void main(string[] args){
-    bla-bla, codeeee...
-}
-
-```
